@@ -1,1 +1,1 @@
-# site-escolinha
+# projeto-escola
